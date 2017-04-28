@@ -1,8 +1,9 @@
 /** Autor Allan Assis
-    desafio 1, primeira etapa da Caelum*/                          /*Peço que ao digitar a expressão, não copie e cole do pdf
+    desafio 1, primeira etapa da Caelum*/                          /*Peço que ao digitar a expressão não copie e cole do pdf,
                                                                         pois o caracter hifen do pdf tem um formato bem diferente
                                                                         do teclado, fazendo com que o programa não o aceite. */
-#include <stdio.h>                                                           /*   hifen do pdf '­'(copiei e colei aqui).*/
+									/*   hifen do pdf '­' é assim quando copiado, e dependendo*/
+#include <stdio.h>                                                           /* da plataforma pode até desaparecer e ficar omitido.*/
 #include<string.h>
 
 
